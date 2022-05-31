@@ -1,0 +1,3 @@
+hello,
+this is my day1 week 2. today we are learning about git commands
+
