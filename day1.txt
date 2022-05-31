@@ -1,3 +1,4 @@
 hello,
 this is my day1 week 2. today we are learning about git commands
+ I am making changes now. How about you? How are you doing?
 
